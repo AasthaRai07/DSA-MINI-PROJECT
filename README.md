@@ -37,4 +37,3 @@ It ranks posts based on user interest, number of likes, and comments using basic
 
 ---
 
-## 🧾 Example Output
