@@ -16,9 +16,9 @@ It ranks posts based on user interest, number of likes, and comments using basic
 ---
 
 ## ⚙️ Technologies Used
-- **Language:** C  
+- **Language:** C  ,Html,Css,Javascript,Nodejs
 - **Concepts Used:** Structures, Arrays, Sorting (Bubble Sort), Functions  
-- **Platform:** Any C compiler (Turbo C++, GCC, Online Compiler)
+- **Platform:** Any C compiler,VsCode (Turbo C++, GCC, Online Compiler)
 
 ---
 
